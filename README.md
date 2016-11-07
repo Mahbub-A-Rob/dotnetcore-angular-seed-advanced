@@ -18,3 +18,5 @@ dotnet restore
 dotnet run
 ```
 open your browser and browse to [localhost:5000](http://localhost:5000)
+
+Reference for setting your Environment Variable can be found [here](http://andrewlock.net/how-to-set-the-hosting-environment-in-asp-net-core/)
